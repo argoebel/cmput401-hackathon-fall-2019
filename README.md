@@ -2,6 +2,6 @@
 
 This is an example repo!
 
-This cat is named **Balthazar**
+This is a cute cat named **Eddie**:
 
 ![galaxy apple logo](./appleLogo.jpg)
